@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++11  -rdynamic CMakeFiles/client.dir/client.cpp.o CMakeFiles/client.dir/longan_proto/ai.grpc.pb.cc.o CMakeFiles/client.dir/longan_proto/ai.pb.cc.o  -o client  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -lgrpc++ -lgrpc -lgrpc++_reflection -lprotobuf -lpthread 
